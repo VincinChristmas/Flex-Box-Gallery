@@ -1,0 +1,8 @@
+.thetitle {
+    color: white;
+    background-color: hsl(209, 100%, 10%);
+    height: 20rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
